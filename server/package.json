@@ -1,0 +1,13 @@
+{
+  "name": "college-events-server",
+  "version": "1.0.0",
+  "description": "College Event Management Platform - Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
